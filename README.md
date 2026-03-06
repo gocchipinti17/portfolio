@@ -1,6 +1,6 @@
-# Gina Occhipinti — Data Analytics Portfolio
+# Gina Occhipinti — Data Science & Analytics Portfolio
 
-Hi! I'm a data science with experience in Python, R, and machine learning. 
+Hi! I'm a data scientist with experience in Python, R, and machine learning. 
 This portfolio showcases applied projects across healthcare, economics, and housing policy as part of my recent Master's in Applied Economics at Boston College.
 
 ## Projects
